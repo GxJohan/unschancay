@@ -1,5 +1,5 @@
 package com.chancay.chancay.service;
-
+//Aqui viene toda la logica del negocio
 import com.chancay.chancay.model.Trabajador;
 import com.chancay.chancay.repository.TrabajadorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
